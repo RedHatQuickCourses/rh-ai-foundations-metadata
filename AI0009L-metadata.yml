@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=metadata.schema.json
+code: AI0009L
+version: '4.14'
+format: lesson
+subformat: compreview
+level: 3
+product: Red{nbsp}Hat OpenShift
+certifications: ['PE180']
+
+taxonomies:
+  audiences:
+    - cloud_administrator
+    - system_administrator
+    - site_reliability_engineer
+  products:
+    - red_hat_openshift
+  topics:
+    - container_platforms
+    - cloud_services
+    - linux_platforms
+
+related_contents:
+  - relation_type: requires
+    code: DO180
+    version: "4.14"
+  - relation_type: precedes
+    code: DO280
+    version: "4.14"
