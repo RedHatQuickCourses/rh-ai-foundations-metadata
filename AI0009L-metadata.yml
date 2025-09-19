@@ -1,28 +1,27 @@
 # yaml-language-server: $schema=metadata.schema.json
 code: AI0009L
-version: '4.14'
+version: ['']
 format: lesson
-subformat: compreview
-level: 3
-product: Red{nbsp}Hat OpenShift
-certifications: ['PE180']
+subformat: scorm
+level: 1
+product: ['']
+certifications: ['']
 
 taxonomies:
   audiences:
+    - automation_architect
     - cloud_administrator
+    - data_scientist
+    - developer
+    - enterprise_architect
+    - it_operations
+    - it_security_practitioner_compliance_auditor
+    - network_administrator_operations
+    - network_architect
+    - platform_engineer
     - system_administrator
     - site_reliability_engineer
   products:
-    - red_hat_openshift
+    - red_hat_ai
   topics:
-    - container_platforms
-    - cloud_services
-    - linux_platforms
-
-related_contents:
-  - relation_type: requires
-    code: DO180
-    version: "4.14"
-  - relation_type: precedes
-    code: DO280
-    version: "4.14"
+    - artificial_intelligence
