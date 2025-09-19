@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=metadata.schema.json
 code: AI0012L
-version: 1.4
+version: '1.4'
 format: lesson
 subformat: scorm
 level: 3
