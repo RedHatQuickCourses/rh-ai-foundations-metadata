@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=metadata.schema.json
+code: AI0008L
+version: ['']
+format: lesson
+subformat: scorm
+level: 1
+product: ['']
+certifications: ['']
+
+taxonomies:
+  audiences:
+    - automation_architect
+    - cloud_administrator
+    - data_scientist
+    - developer
+    - enterprise_architect
+    - it_operations
+    - it_security_practitioner_compliance_auditor
+    - network_administrator_operations
+    - network_architect
+    - platform_engineer
+    - system_administrator
+    - site_reliability_engineer
+  products:
+    - red_hat_ai
+  topics:
+    - artificial_intelligence
